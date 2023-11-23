@@ -20,5 +20,10 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: overlay;
-    
+}
+
+header {
+    background-color: red;
+    position: sticky;
+    top: 0;
 }
